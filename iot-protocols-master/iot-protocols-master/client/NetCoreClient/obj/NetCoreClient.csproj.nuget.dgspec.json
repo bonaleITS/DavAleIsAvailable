@@ -1,23 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\User\\Nextcloud\\ITS - Appunti\\DavAleIsAvailable\\iot-protocols-master\\iot-protocols-master\\client\\NetCoreClient\\NetCoreClient.csproj": {}
+    "C:\\Users\\Filippo\\source\\repos\\drone\\client\\NetCoreClient\\NetCoreClient.csproj": {}
   },
   "projects": {
-    "C:\\Users\\User\\Nextcloud\\ITS - Appunti\\DavAleIsAvailable\\iot-protocols-master\\iot-protocols-master\\client\\NetCoreClient\\NetCoreClient.csproj": {
+    "C:\\Users\\Filippo\\source\\repos\\drone\\client\\NetCoreClient\\NetCoreClient.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\User\\Nextcloud\\ITS - Appunti\\DavAleIsAvailable\\iot-protocols-master\\iot-protocols-master\\client\\NetCoreClient\\NetCoreClient.csproj",
+        "projectUniqueName": "C:\\Users\\Filippo\\source\\repos\\drone\\client\\NetCoreClient\\NetCoreClient.csproj",
         "projectName": "NetCoreClient",
-        "projectPath": "C:\\Users\\User\\Nextcloud\\ITS - Appunti\\DavAleIsAvailable\\iot-protocols-master\\iot-protocols-master\\client\\NetCoreClient\\NetCoreClient.csproj",
-        "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\User\\Nextcloud\\ITS - Appunti\\DavAleIsAvailable\\iot-protocols-master\\iot-protocols-master\\client\\NetCoreClient\\obj\\",
+        "projectPath": "C:\\Users\\Filippo\\source\\repos\\drone\\client\\NetCoreClient\\NetCoreClient.csproj",
+        "packagesPath": "C:\\Users\\Filippo\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Filippo\\source\\repos\\drone\\client\\NetCoreClient\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Filippo\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -63,7 +60,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
         }
       }
     }
