@@ -8,7 +8,7 @@ sensors.Add(new VirtualPositionSensor());
 sensors.Add(new VirtualAltitudeSensor());
 
 // define protocol
-ProtocolInterface protocol = new Http("http://localhost:3000/drones/123");
+ProtocolInterface protocol = new Http("http://localhost:8011/drones/123");
 
 // send data to server
 while (true)
