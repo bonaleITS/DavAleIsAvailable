@@ -9,7 +9,14 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "dotenv": "^16.0.3",
+    "mysql": "^2.18.1",
     "node": "^19.0.0",
+    "pg": "^8.8.0",
+    "pg-restify": "^0.6.0",
     "restify": "^8.6.0"
+  },
+  "devDependencies": {
+    "@types/pg": "^8.6.5"
   }
 }
