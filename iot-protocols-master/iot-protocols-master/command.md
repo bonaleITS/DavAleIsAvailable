@@ -37,4 +37,4 @@ sudo apt install nodejs npm -y
 npm install pg
 ```
 
-che permetterà la connessione al DB PostgreSQL.
+che permetterà la connessione al DB PostgreSQL
