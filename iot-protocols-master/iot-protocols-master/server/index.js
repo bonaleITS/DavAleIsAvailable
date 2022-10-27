@@ -18,7 +18,7 @@ server.get('/drones/:id', function(req, res, next) {
 server.post('/drones/:id', function(req, res, next) {
     res.send('Data received from drone [TODO]');
 
-    console.log(req.body);
+    console.log(req.body); // Dati dentro il body
 
     return next();
 });
