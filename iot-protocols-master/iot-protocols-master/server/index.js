@@ -23,6 +23,20 @@ server.post('/drones/:id', function(req, res, next) {
     return next();
 });
 
+
+// Ricezione pacchetto dati (es. posizione, velocità,...)
+server.put('/drones/:id/status', function(req, res, next)
+{
+// ..........
+})
+
+// Ricezione singolo dato (es. velocità)
+server.put('/drones/:id/status/speed', function(req, res, next)
+{
+// ..........
+})
+
+
 // server.listen(8011, function() {
 //     console.log('%s listening at %s', server.name, server.url);
 // });
