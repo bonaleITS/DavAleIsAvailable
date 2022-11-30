@@ -1,10 +1,7 @@
 # DavAleIsAvailable
-Gruppo
 
-{
+Membri del gruppo:
+- Alessandro Bonaldo (responsabile)
+- Davide Maria Piccinato
 
-  Alessandro Bonaldo 
-  
-  Davide Maria Piccinato
-
-}
+Progetto Iot Drone - 2022
